@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "ZeniDuck",
+    "price": "9",
+    "description": "Get this ZeniDuck for only $9!",
+    "image_url": "https://gateway.pinata.cloud/ipfs/QmeNgRZMsJSthbvTNV5cFHDkVqeTsnmoR1dNPhU91xHaCy",
+    "filename": "nft 2022-05-10T16:37:17.003Z",
+    "hash": "QmeNgRZMsJSthbvTNV5cFHDkVqeTsnmoR1dNPhU91xHaCy"
+  },
+  {
+    "id": 2,
+    "name": "Duck2",
+    "price": "0.03",
+    "image_url": "https://gateway.pinata.cloud/ipfs/QmQSaQdLf7cnPxck1szgiJ9j77bTQjPdu1nDQiPedniqWM",
+    "description": "Another duck",
+    "filename": "QmQSaQdLf7cnPxck1szgiJ9j77bTQjPdu1nDQiPedniqWM.svg",
+    "hash": "QmPRAeCcj8arH9f8tU9oyD65bz2aL1PPy5SdajDgp2Ldjb"
+  }
+]
